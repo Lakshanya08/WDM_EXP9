@@ -29,5 +29,6 @@ for this purpose.
 <img width="1143" height="878" alt="image" src="https://github.com/user-attachments/assets/f9d8685f-25dd-4c51-9e92-4d08697f90dc" />
 <img width="1160" height="822" alt="image" src="https://github.com/user-attachments/assets/3d7e7240-9c39-4792-98da-2e7fd8333eb9" />
 <img width="1371" height="791" alt="image" src="https://github.com/user-attachments/assets/2853a8fb-d17a-441d-87fb-f86501514929" />
+
 ### Result:
 The Twitter data was cleaned and transformed into a structured format using preprocessing techniques in RapidMiner, making it ready for text analysis.
